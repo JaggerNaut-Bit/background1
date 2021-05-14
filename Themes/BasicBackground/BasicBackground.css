@@ -1,5 +1,5 @@
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://github.com/JaggerNaut-Bit/background1/blob/master/Themes/_res/SettingsIcons.css);
+@import url(https://github.com/JaggerNaut-Bit/background1/blob/master/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
 	--transparencycolor:			0,0,0;
@@ -6851,7 +6851,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Your Version of   BasicBackground   by PYS2 is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor), .3) !important;
@@ -6962,7 +6962,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	animation: unset !important;
 }
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss > div.layer-3QrUeG.baseLayer-35bLyl + div.layer-3QrUeG > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.sidebarRegionScroller-3MXcoP.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 > nav.sidebar-CFHs9e > div.side-8zPYf6 > div.info-1VyQPT::before {
-	content: "DevilBro" !important;
+	content: "PYS2" !important;
 	font-size: 12px !important;
 	color: rgb(var(--accentcolor)) !important;
 	display: inline !important;
